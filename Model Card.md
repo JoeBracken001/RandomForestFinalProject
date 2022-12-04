@@ -24,7 +24,7 @@ For example, a standard monthly linear regression using financial data to predic
 
 To assess the model's performance we look at the three most important features that it identifies as predicting excess returns and then use these to select markets out-of-sample. In our case the most important features are VRP, MOM1 and EQSTYLE.
 
-As noted in the graph attached ('investment graph.jpg'), these three features that the random forest identifies as the most important for selecting outperforming markets, do indeed generate significant outperformance over the testing period.
+As noted in the graph attached ('performance image.jpg'), these three features that the random forest identifies as the most important for selecting outperforming markets, do indeed generate significant outperformance over the testing period.
 
 Even with an accuracy of 53%, the model strategy outperforms an equally weighted benchmark. The Sharpe ratio (the risk adjusted return) – an important finance metric – is also more attractive for the strategy than for the benchmark.
 
