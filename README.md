@@ -20,4 +20,4 @@ The random forest's main hyperparameters are set in the in-sample (or training/v
 
 To assess the model's performance we look at the three most important features that the random forest identifies as predicting excess returns and then use these to select markets out-of-sample.
 
-As noted in the graph in attached JPG file, these features that the random forest identifies (collectively called 'Strategy' below) do indeed generate significant outperformance over the testing period. The strategy significantly beats the benchmark of the average market performance (called 'Equally Weighted BM' below) over the period and also outperforms on a risk-adjusted basis as noted by the Sharpe ratio calculation.
+As noted in the graph in attached JPG file (and in the 'PortfolioSimulator.jpynb' notebook), these features that the random forest identifies (collectively called 'Strategy' below) do indeed generate significant outperformance over the testing period. The strategy significantly beats the benchmark of the average market performance (called 'Equally Weighted BM' below) over the period and also outperforms on a risk-adjusted basis as noted by the Sharpe ratio calculation.
